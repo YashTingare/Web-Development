@@ -1,0 +1,34 @@
+/* Write your code here: */
+
+h1, h2{
+    color: blueviolet;
+}
+
+/* Both are Same*/
+.box > .done{
+    color: firebrick;
+}
+/*
+.box > p {
+    color: firebrick;
+}
+*/
+
+/* Both are Same*/
+.box li{
+    color: blue;
+}
+
+/*
+.box .list{
+    color: blue;
+}
+*/
+
+li.done{
+    color: green;
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}
